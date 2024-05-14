@@ -34,7 +34,7 @@ cryptography==42.0.7
 Deprecated==1.2.14
 dill==0.3.8
 dnspython==2.6.1
-docutils==0.21.2
+docutils==0.20.1
 email_validator==2.1.1
 Flask==2.2.5
 Flask-AppBuilder==4.4.1
